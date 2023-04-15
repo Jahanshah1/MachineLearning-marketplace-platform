@@ -63,7 +63,7 @@ const Publish = () => {
   const {getRootProps, getInputProps, isDragActive} = useDropzone({onDrop, accept: 'application/pdf'});
   return (
     <div className='h-screen bg-center bg-cover bg-no-repeat' style={{backgroundImage: `url(${Img})`}}>
-         <div className="h-screen bg-[#263842] flex flex-col">
+         <div className="h-screen bg-[#191B20] flex flex-col">
         <div className="flex justify-between">
             <div className="w-1/2">
                 <div {...getRootProps()} className={`dropzone border border-[#fff] text-xl font-poppins text-white p-20 ${isDragActive && 'dropzone--isActive'}`} style={{marginTop:'370px', marginLeft:'40px'}}>

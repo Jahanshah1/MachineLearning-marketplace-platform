@@ -17,7 +17,7 @@ const Marketplace = () => {
     {
       id:2,
       title:'Smokers dataset',
-      description:'dnjhbwq',
+      description:'This is a sample machine learning dataset.',
       image:'https://via.placeholder.com/150',
       price: '0.13 ETH',
 
@@ -44,6 +44,9 @@ const Marketplace = () => {
       <h1 className="text-4xl font-bold font-poppins text-center text-[#349AA1] mb-10" style={{marginTop:'40px'}}>
         Machine Learning Data Marketplace
       </h1>
+      <div className='text-2xl text-white text-center font-poppins ' style={{marginBottom:'10px'}}>
+        Featured Datasets
+      </div>
       <div className="container mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
         {dataItems.map((item) => (
           <div
@@ -64,10 +67,14 @@ const Marketplace = () => {
                 Buy for {item.price}
               </button>
             </div>
+            
           </div>
+          
         ))}
       </div>
+      <input placeholder="Search for data" style={{marginLeft:'600px', marginTop:'50px'}} />
     </div>
+    
 
 
   )

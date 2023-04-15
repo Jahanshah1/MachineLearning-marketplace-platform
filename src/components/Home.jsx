@@ -10,6 +10,11 @@ import { EmbedSDK } from "@pushprotocol/uiembed";
 
 const Home = () => { 
 
+  const handleClick = () => {
+    window.location.assign('http://localhost:3000/Publish')
+  }
+
+
   return (
     <div
       className="h-screen grid grid-rows-3 bg-center bg-cover bg-no-repeat"
@@ -23,10 +28,10 @@ const Home = () => {
               Machine Learning Marketplace Platform
             </h1>
             <p className="text-xl text-left text-gray-400 mb-8">
-            Revolutionizing the Data Economy: Seamlessly Connect, Share, and Monetize Your ML Models and on the Blockchain
+            Revolutionizing the Data Economy: Seamlessly Connect, Share, and Monetize Your ML Model's training data on the Blockchain
             </p>
             {/*Button*/}
-        <button type="button" class="btn">
+        <button type="button" class="btn" onClick={handleClick}>
                     <strong>Launch</strong>
                     <div id="container-stars">
 
