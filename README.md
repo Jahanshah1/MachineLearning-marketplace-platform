@@ -24,5 +24,9 @@ The purpose of your platform is to provide a decentralized and secure environmen
 ### Connecting to metamask wallet 
 <img width="1470" alt="Screenshot 2023-04-16 at 2 30 08 AM" src="https://user-images.githubusercontent.com/92823408/232244864-87b56d7e-c4a0-4853-bc6c-b227992b92fb.png">
 
-### 
+### The native marketplace 
 <img width="1470" alt="Screenshot 2023-04-16 at 2 30 29 AM" src="https://user-images.githubusercontent.com/92823408/232244874-ef5d2c72-779c-41bf-8801-5bce3c4aab45.png">
+
+### Searching for datasets 
+<img width="618" alt="Screenshot 2023-04-16 at 2 30 54 AM" src="https://user-images.githubusercontent.com/92823408/232244959-a738dc99-f077-4b7d-ac50-dfb7f65921a2.png">
+
