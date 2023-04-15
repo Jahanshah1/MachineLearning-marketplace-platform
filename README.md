@@ -65,4 +65,6 @@ The purpose of your platform is to provide a decentralized and secure environmen
 - IPFS 
 - Web3.storage 
 
-
+## FAQ 
+### Q1 - Since its on IPFS, the dataset uploaded is immutable so how can someone update the data with upcoming changes/trends?
+### A1 - Thats true, the data is immutable, hence the publisher has to release a new version everytime he/she wants to update the data.
