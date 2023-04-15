@@ -47,6 +47,10 @@ The purpose of your platform is to provide a decentralized and secure environmen
 ### Smart contract deployed on Mumbai testnet ( Polygon )
 <img width="1468" alt="Screenshot 2023-04-16 at 2 33 46 AM" src="https://user-images.githubusercontent.com/92823408/232245216-68914301-9f0e-48f0-acaa-1db474f704c2.png">
 
+### Polygon Tweet 🚀 💜
+<img width="599" alt="Screenshot 2023-04-16 at 2 59 59 AM" src="https://user-images.githubusercontent.com/92823408/232245836-bc6c1fdf-13b2-4236-894c-0f93446aae07.png">
+
+
 
 ## Links 
 - Demo link : https://www.youtube.com/watch?v=mEROkjCPNIw
