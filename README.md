@@ -1,5 +1,6 @@
 # Machine Learning Marketplace platform 
 Revolutionizing the Data Economy: Seamlessly Connect, Share, and Monetize Your ML Model's training data on the Blockchain
+<img width="820" alt="Screenshot 2023-04-16 at 2 32 38 AM" src="https://user-images.githubusercontent.com/92823408/232244891-4dd58119-a22d-4594-9595-371d0b5d55f4.png">
 
 ## Purpose
 The purpose of your platform is to provide a decentralized and secure environment for sharing and storing machine learning data using IPFS and web3.storage. This aims to maintain data integrity, cleanliness, and prevent tampering, which are critical aspects for reliable machine learning model development. Furthermore, the platform offers a marketplace for users to exchange data, models, and services, fostering a collaborative ecosystem for machine learning practitioners, researchers, and enthusiasts.
@@ -16,3 +17,12 @@ The purpose of your platform is to provide a decentralized and secure environmen
 - Collaboration and Monetization Opportunities: The marketplace enables users to monetize their efforts by selling data, models, or services, while also providing an environment for collaboration, sharing of knowledge, and joint problem-solving among the community.
 
 ## Screenshots of the Dapp
+### Home page
+<img width="1469" alt="Screenshot 2023-04-16 at 2 29 57 AM" src="https://user-images.githubusercontent.com/92823408/232244823-ac1a5db1-f5de-44c1-86f2-be218893132a.png">
+
+
+### Connecting to metamask wallet 
+<img width="1470" alt="Screenshot 2023-04-16 at 2 30 08 AM" src="https://user-images.githubusercontent.com/92823408/232244864-87b56d7e-c4a0-4853-bc6c-b227992b92fb.png">
+
+### 
+<img width="1470" alt="Screenshot 2023-04-16 at 2 30 29 AM" src="https://user-images.githubusercontent.com/92823408/232244874-ef5d2c72-779c-41bf-8801-5bce3c4aab45.png">
