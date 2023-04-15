@@ -30,3 +30,11 @@ The purpose of your platform is to provide a decentralized and secure environmen
 ### Searching for datasets 
 <img width="618" alt="Screenshot 2023-04-16 at 2 30 54 AM" src="https://user-images.githubusercontent.com/92823408/232244959-a738dc99-f077-4b7d-ac50-dfb7f65921a2.png">
 
+### Tha main application page ( for publishing data to IPFS ) 
+<img width="1469" alt="Screenshot 2023-04-16 at 2 31 10 AM" src="https://user-images.githubusercontent.com/92823408/232245010-d2d8dc9c-7ca6-451b-8bc0-bf2bc6dbb49e.png">
+
+### Verifying using WorldCoin
+<img width="1470" alt="Screenshot 2023-04-16 at 2 31 18 AM" src="https://user-images.githubusercontent.com/92823408/232245051-a320e234-13fb-4b2f-8a1b-43dcde235074.png">
+<img width="1467" alt="Screenshot 2023-04-16 at 2 32 06 AM" src="https://user-images.githubusercontent.com/92823408/232245054-77c2ec22-09cf-4eea-95bc-826746141c10.png">
+
+
