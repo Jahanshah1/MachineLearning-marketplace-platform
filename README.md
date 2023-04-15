@@ -68,3 +68,22 @@ The purpose of your platform is to provide a decentralized and secure environmen
 ## FAQ 
 ### Q1 - Since its on IPFS, the dataset uploaded is immutable so how can someone update the data with upcoming changes/trends?
 ### A1 - Thats true, the data is immutable, hence the publisher has to release a new version everytime he/she wants to update the data, for eg - NAT.csv 1.0, NAT.csv 1.1, NAT.csv 1.2, and so on.
+
+## Run locally 
+Clone the project 
+```bash 
+git clone https://github.com/Jahanshah1/MachineLearning-marketplace-platform
+```
+Go to client directory 
+```bash 
+cd client
+```
+Install dependencies 
+```bash 
+npm i 
+```
+start localhost 
+```bash 
+npm start
+```
+If there are any problems please contact me shahjahanrajan@gmail.com
