@@ -37,4 +37,11 @@ The purpose of your platform is to provide a decentralized and secure environmen
 <img width="1470" alt="Screenshot 2023-04-16 at 2 31 18 AM" src="https://user-images.githubusercontent.com/92823408/232245051-a320e234-13fb-4b2f-8a1b-43dcde235074.png">
 <img width="1467" alt="Screenshot 2023-04-16 at 2 32 06 AM" src="https://user-images.githubusercontent.com/92823408/232245054-77c2ec22-09cf-4eea-95bc-826746141c10.png">
 
+### Uploading a dataset to IPFS and getting the CID 
+<img width="1466" alt="Screenshot 2023-04-16 at 2 31 35 AM" src="https://user-images.githubusercontent.com/92823408/232245096-445861eb-5bf5-4774-9f97-0b5381180c8f.png">
+<img width="1469" alt="Screenshot 2023-04-16 at 2 47 03 AM" src="https://user-images.githubusercontent.com/92823408/232245139-bbe75df8-9e5f-4377-856b-21a4fcefd0a8.png">
+
+
+
+
 
