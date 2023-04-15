@@ -120,27 +120,32 @@ const Publish = () => {
                   <li>
                     You will also get an option to view the file 
                   </li>
+                  <IDKitWidget
+                      
+                      action={action}
+                      signal="my_signal"
+                      onSuccess={onSuccess}
+                      handleVerify={handleProof}
+                      app_id={app_id}
+                      credential_types={credential_types}
+                      // walletConnectProjectId="get_this_from_walletconnect_portal"
+                    >
+                      {({ open }) => <button className='border p-2 shadow__btn' onClick={open} style={{marginTop:'35px', marginLeft:'164px'}}>Verify</button>}
+                    </IDKitWidget>
 
                       </li> 
+                   
 
 
 
 
-                      <IDKitWidget
-                action={action}
-                signal="my_signal"
-                onSuccess={onSuccess}
-                handleVerify={handleProof}
-                app_id={app_id}
-                credential_types={credential_types}
-                // walletConnectProjectId="get_this_from_walletconnect_portal"
-              >
-                {({ open }) => <button className='border' onClick={open}>Click me</button>}
-              </IDKitWidget>
-                
+                      
             </div>
+          
         </div>
+      
     </div>
+    
     </div>
   )
 }

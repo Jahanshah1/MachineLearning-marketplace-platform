@@ -41,26 +41,26 @@ const Marketplace = () => {
   return (
 
           <div className="min-h-screen bg-[#191B20] py-12">
-      <h1 className="text-4xl font-bold font-poppins text-center text-[#25EAC2] mb-10" style={{marginTop:'40px'}}>
+      <h1 className="text-4xl font-bold font-poppins text-center text-[#349AA1] mb-10" style={{marginTop:'40px'}}>
         Machine Learning Data Marketplace
       </h1>
       <div className="container mx-auto px-4 grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-8">
         {dataItems.map((item) => (
           <div
             key={item.id}
-            className="bg-white shadow-md rounded-md p-6 flex flex-col items-center"
+            className="bg-[#bebebe] shadow-md rounded-md p-6 flex flex-col items-center"
           >
             <img
               src={item.image}
               alt={item.title}
               className="w-full h-48 object-cover rounded-md mb-4"
             />
-            <h2 className="text-2xl font-bold font-poppins text-blue-600 mb-2">
+            <h2 className="text-2xl font-bold font-poppins text-[#349AA1] mb-2">
               {item.title}
             </h2>
             <p className="text-gray-700 mb-4">{item.description}</p>
             <div className="mt-auto">
-              <button className="bg-blue-600 text-white font-semibold font-poppins px-6 py-2 rounded shadow-md hover:bg-blue-500 active:bg-blue-700 focus:outline-none">
+              <button className="bg-[#349AA1] text-white font-semibold font-poppins px-6 py-2 rounded shadow-md hover:bg-[#2B4C54] active:bg-blue-700 focus:outline-none">
                 Buy for {item.price}
               </button>
             </div>

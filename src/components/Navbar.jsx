@@ -48,13 +48,14 @@ const Navbar = () => {
               <a href="/" className="text-white">Home</a>
               <a href="/Marketplace" className="text-white">Marketplace</a>
               <a href="/Publish" className="text-white">Publish data</a>
+<div>
               <WagmiConfig client={wagmiClient}>
                 <RainbowKitProvider chains={chains}>
                   <ConnectButton showBalance={false} />
                 </RainbowKitProvider>
               </WagmiConfig>
 
-              
+              </div>
 
             </div>
           </div>

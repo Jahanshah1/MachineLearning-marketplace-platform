@@ -1,17 +1,14 @@
 import React from 'react';
+import { useEffect } from 'react';
 import Img from './Background.JPEG';
 import sendNotification  from "./sendNotification";
 
+import { EmbedSDK } from "@pushprotocol/uiembed";
 
 
 
 
-const Home = () => {
-
-
-  
-
- 
+const Home = () => { 
 
   return (
     <div
@@ -32,6 +29,7 @@ const Home = () => {
         <button type="button" class="btn">
                     <strong>Launch</strong>
                     <div id="container-stars">
+
                     <div id="stars"></div>
                 </div>
 
@@ -40,6 +38,7 @@ const Home = () => {
             <div class="circle"></div>
             </div>
         </button>
+   
       
 	
           </div>
