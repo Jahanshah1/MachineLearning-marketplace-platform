@@ -49,8 +49,20 @@ The purpose of your platform is to provide a decentralized and secure environmen
 
 
 ## Links 
-Demo link : https://www.youtube.com/watch?v=mEROkjCPNIw
-contract address mumbai explorer link : https://mumbai.polygonscan.com/address/0x7d9c921230712d921f9a4d733965e5f1f0b42037
-contract address : 0x7d9c921230712d921f9A4d733965e5f1F0b42037
+- Demo link : https://www.youtube.com/watch?v=mEROkjCPNIw
+- contract address mumbai explorer link : https://mumbai.polygonscan.com/address/0x7d9c921230712d921f9a4d733965e5f1f0b42037
+- contract address : 0x7d9c921230712d921f9A4d733965e5f1F0b42037
+
+## Tech Stack used 
+- HTML/CSS
+- React.js
+- TailwindCSS
+- WorldCoin
+- Polygon 
+- Solidity 
+- Metamask 
+- Rainbowkit
+- IPFS 
+- Web3.storage 
 
 
