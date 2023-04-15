@@ -41,6 +41,13 @@ The purpose of your platform is to provide a decentralized and secure environmen
 <img width="1466" alt="Screenshot 2023-04-16 at 2 31 35 AM" src="https://user-images.githubusercontent.com/92823408/232245096-445861eb-5bf5-4774-9f97-0b5381180c8f.png">
 <img width="1469" alt="Screenshot 2023-04-16 at 2 47 03 AM" src="https://user-images.githubusercontent.com/92823408/232245139-bbe75df8-9e5f-4377-856b-21a4fcefd0a8.png">
 
+### Visualised structure of the smart contract 
+<img width="407" alt="Screenshot 2023-04-15 at 10 23 02 PM" src="https://user-images.githubusercontent.com/92823408/232245195-330d735d-1a3d-47bb-88e1-b8d0a5685838.png">
+
+### Smart contract deployed on Mumbai testnet ( Polygon )
+<img width="1468" alt="Screenshot 2023-04-16 at 2 33 46 AM" src="https://user-images.githubusercontent.com/92823408/232245216-68914301-9f0e-48f0-acaa-1db474f704c2.png">
+
+
 
 
 
