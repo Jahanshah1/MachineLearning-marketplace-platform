@@ -50,6 +50,8 @@ The purpose of your platform is to provide a decentralized and secure environmen
 ### Polygon Tweet 🚀 💜
 <img width="599" alt="Screenshot 2023-04-16 at 2 59 59 AM" src="https://user-images.githubusercontent.com/92823408/232245836-bc6c1fdf-13b2-4236-894c-0f93446aae07.png">
 
+## Why Worldcoin verification?
+The main reason behind it is the fair distribution of data. Integrating proof of personhood would help ensure that each participant in the marketplace is a unique individual. This is beneficial if a user wants to distribute free or discounted dara samples faily to users. There are some other reasons like Identity protection and governance reasons as well 
 
 
 ## Links 
